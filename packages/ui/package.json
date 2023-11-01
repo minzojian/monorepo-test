@@ -5,7 +5,8 @@
   "main": "./build/index.js",
   "type": "commonjs",
   "scripts": {
-    "build": "tsc --build"
+    "build": "tsc --build",
+    "start":"node ./build/index.js"
   },
   "dependencies": {
     "@monorepo/utils": "^1.0.0"
