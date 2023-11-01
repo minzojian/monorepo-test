@@ -4,13 +4,14 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "declaration": true,
-    "strict": true,
+    "strict": false,
     "incremental": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "rootDir": "./src",
     "outDir": "./build",
-    "composite": true
+    "composite": true,
+    "allowJs": true
   }
 }

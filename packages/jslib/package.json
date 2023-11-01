@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo/jslib",
+  "version": "1.0.0",
+  "description": "a test js lib project",
+  "main": "./index.js",
+  "type": "commonjs",
+  "scripts": {
+  }
+}

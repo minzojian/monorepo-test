@@ -1,7 +1,7 @@
 {
-  "name": "@monorepo/utils",
+  "name": "@monorepo/tslib",
   "version": "1.0.0",
-  "description": "The package containing some utility functions",
+  "description": "a test typescript lib ",
   "main": "./build/index.js",
   "type": "commonjs",
   "scripts": {
