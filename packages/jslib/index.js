@@ -1,13 +1,15 @@
 
 /**
- * @class Test2
+ * @class
  */
-export class Test2 {
+class Test2 {
     /**
-     * @method test2
+     * @method
      * test2 method
      */
     test2() {
         console.log('test2');
     }
 }
+
+module.exports={Test2};

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a test js lib project",
   "main": "./index.js",
+  "types": "./index.js",
   "type": "commonjs",
   "scripts": {
   }

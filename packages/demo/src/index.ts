@@ -1,5 +1,5 @@
 import { Test } from "@monorepo/tslib"
-export class MyTest extends Test
+ class MyTest extends Test
 {
   constructor()
   {
@@ -8,4 +8,6 @@ export class MyTest extends Test
   }
 }
 
+
 new MyTest();
+

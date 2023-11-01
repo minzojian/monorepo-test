@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "build": "tsc --build",
-    "start": "node ./build/index.js"
+    "startTsLibTest": "node ./build/index.js",
+    "startJsLibTest": "node ./build/index2.js"
   },
   "dependencies": {
     "@monorepo/jslib": "*",
