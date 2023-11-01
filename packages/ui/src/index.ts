@@ -7,3 +7,5 @@ export class MyTest extends Test
     this.test();
   }
 }
+
+new MyTest();
